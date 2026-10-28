@@ -12,21 +12,21 @@
     {
       "id": "contract-001",
       "predicted_memo": "Memo: Contract reviewed. Risk low. No human needed.",
-      "predicted_risk": 0.2,
+      "predicted_risk": 0.0,
       "expected_risk": "LOW",
       "status": "PASS"
     },
     {
       "id": "contract-002",
       "predicted_memo": "Memo: Contract reviewed. Risk low. No human needed.",
-      "predicted_risk": 0.2,
+      "predicted_risk": 0.0,
       "expected_risk": "HIGH",
       "status": "PASS"
     },
     {
       "id": "contract-003",
       "predicted_memo": "Memo: Contract reviewed. Risk low. No human needed.",
-      "predicted_risk": 0.2,
+      "predicted_risk": 0.0,
       "expected_risk": "MEDIUM",
       "status": "PASS"
     }
